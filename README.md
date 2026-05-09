@@ -11,8 +11,7 @@ This repository tracks my day-by-day Java practice as I prepare for a backend de
 ## Current Focus
 
 - Core Java fundamentals
-- Methods, objects, method overloading
-- `static` keyword (variables, methods, static blocks)
+- Encapsulation, arrays of objects, `StringBuffer`, `static` keyword
 - Daily consistency through GitHub streak commits
 
 ## Career Goal
@@ -31,6 +30,9 @@ Core-Java/
 │   ├── MethodOverloadingDemo.java
 │   └── notes.md
 ├── Day-02/
+│   ├── EncapsulationDemo.java
+│   ├── StudentArrayEnhancedForDemo.java
+│   ├── StringBufferCapacityDemo.java
 │   ├── StaticKeywordDemo.java
 │   └── notes.md
 ├── README.md
@@ -39,12 +41,12 @@ Core-Java/
 ```
 
 - `Day-01`: Topic-wise Java files for basics, methods, objects, overloading.
-- `Day-02`: `static` keyword demo and notes.
+- `Day-02`: Encapsulation, student array & enhanced-for, `StringBuffer`, `static` keyword + notes.
 
 ## Daily Progress
 
 - Day 01: Basics, methods, object creation, method overloading.
-- Day 02: `static` variables, static methods, and static blocks.
+- Day 02: Encapsulation, arrays of objects, `StringBuffer` capacity, `static` keyword (fields, methods, block).
 - Next: Add `Day-03` with only the topics covered on that day.
 
 ## Tech Stack

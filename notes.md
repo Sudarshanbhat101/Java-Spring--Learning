@@ -15,6 +15,7 @@
 
 ## Day 02 Coverage
 
-- `static` fields (class variables)
-- `static` methods and when to use them
-- Static initialization blocks
+- Encapsulation (private fields, getters/setters)
+- Array of objects and enhanced `for` loop
+- `StringBuffer` and `capacity()`
+- `static` fields, methods, and static initialization blocks

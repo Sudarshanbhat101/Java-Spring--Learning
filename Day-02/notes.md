@@ -1,22 +1,35 @@
 # Day 02 Notes
 
+## Files in this folder
+
+| File | Topic |
+|------|--------|
+| `EncapsulationDemo.java` | Private fields, getters/setters |
+| `StudentArrayEnhancedForDemo.java` | Array of objects, enhanced `for` |
+| `StringBufferCapacityDemo.java` | `StringBuffer`, `capacity()` |
+| `StaticKeywordDemo.java` | `static` fields, methods, static block |
+
+## Encapsulation
+
+- Mark fields `private`; expose access through **getters** and **setters**.
+- Protects internal state and is a core OOP practice for maintainable code.
+
+## Array of objects + enhanced for
+
+- `Student[]` holds references to `Student` instances.
+- **Enhanced for:** `for (Student s : members)` — simpler than index loops when you only need each element.
+
+## StringBuffer
+
+- Mutable string builder; `capacity()` shows internal buffer size (related to default capacity + content length).
+
 ## Static keyword
 
-- **Static variable (class variable):**  
-  Stored once in memory for the whole class. All objects share the same copy. Declare with `static` inside the class.
-
-- **Static method:**  
-  Belongs to the class, not a single object. Called as `ClassName.methodName(...)`. Cannot use non‑static fields directly (`this` is not tied to one instance).
-
-- **Static block:**  
-  Runs once when the class is **first loaded** (before `main` if `main` uses that class). Good for class‑level initialization.
-
-- **Why it matters:**  
-  Shared counters, utility/helper methods, constants, singleton patterns, and JDK APIs like `Integer.parseInt` are common static use cases.
-
-- **Practice file:** See `StaticKeywordDemo.java`.
+- **Static variable:** one copy per class, shared by all instances.
+- **Static method:** belongs to the class; call as `ClassName.method(...)`.
+- **Static block:** runs once when the class is first loaded.
+- Practice: `StaticKeywordDemo.java`.
 
 ## Revision tips
 
-- Instance members need an object (`new ClassName(...)`).
-- Static members belong to the class loader’s view of the class — use sparingly where shared state truly fits backend design later.
+- Instance members need `new`; static members belong to the class loading context.
