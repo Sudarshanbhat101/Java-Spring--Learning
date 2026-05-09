@@ -11,9 +11,8 @@ This repository tracks my day-by-day Java practice as I prepare for a backend de
 ## Current Focus
 
 - Core Java fundamentals
-- Methods and return types
-- Object creation and class usage
-- Method overloading
+- Methods, objects, method overloading
+- `static` keyword (variables, methods, static blocks)
 - Daily consistency through GitHub streak commits
 
 ## Career Goal
@@ -31,19 +30,22 @@ Core-Java/
 │   ├── ObjectCreationDemo.java
 │   ├── MethodOverloadingDemo.java
 │   └── notes.md
+├── Day-02/
+│   ├── StaticKeywordDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
 ```
 
-- `Day-01`: Topic-wise Java files based on concepts covered today.
-- Future days will be added incrementally (`Day-02`, `Day-03`, etc.) as new topics are completed.
+- `Day-01`: Topic-wise Java files for basics, methods, objects, overloading.
+- `Day-02`: `static` keyword demo and notes.
 
 ## Daily Progress
 
-- Day 01: Basic syntax exploration and first Java file setup.
-- Day 01: Methods, object creation, and method overloading practice.
-- Next: Add `Day-02` with only the topics covered tomorrow.
+- Day 01: Basics, methods, object creation, method overloading.
+- Day 02: `static` variables, static methods, and static blocks.
+- Next: Add `Day-03` with only the topics covered on that day.
 
 ## Tech Stack
 
