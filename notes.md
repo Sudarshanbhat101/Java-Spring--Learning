@@ -27,3 +27,12 @@
 - Method overriding and invoking parent methods using `super`
 - Package imports from `java.util` and `java.time`
 - Access modifiers: default (package-private) and `protected`
+
+## Day 04 Coverage
+
+- Primitive and reference type casting (`instanceof`, downcast)
+- Abstraction: abstract classes and template-style methods
+- Inner classes: member inner vs static nested
+- Interfaces: pure contract, default/static methods (Java 8+), multiple interfaces
+- Enum constants, `values()`, enums with fields and constructors
+- Annotations: `@Override`, `@Deprecated`, `@SuppressWarnings`, custom `@interface` + reflection

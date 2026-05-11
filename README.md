@@ -11,7 +11,7 @@ This repository tracks my day-by-day Java practice as I prepare for a backend de
 ## Current Focus
 
 - Core Java fundamentals
-- Inheritance, `this`/`super`/`final`, overriding, packages/imports, access modifiers
+- Type casting, abstraction, inner classes, interfaces, enums, annotations
 - Daily consistency through GitHub streak commits
 
 ## Career Goal
@@ -47,6 +47,21 @@ Core-Java/
 │   ├── 09_DefaultAccessModifierDemo.java
 │   ├── 10_ProtectedAccessModifierDemo.java
 │   └── notes.md
+├── Day-04/
+│   ├── 01_TypeCastingPrimitiveDemo.java
+│   ├── 02_TypeCastingReferenceDemo.java
+│   ├── 03_AbstractionAbstractClassDemo.java
+│   ├── 04_AbstractionTemplateMethodDemo.java
+│   ├── 05_InnerClassMemberDemo.java
+│   ├── 06_InnerClassStaticNestedDemo.java
+│   ├── 07_InterfaceContractDemo.java
+│   ├── 08_InterfaceDefaultStaticDemo.java
+│   ├── 09_InterfaceMultipleDemo.java
+│   ├── 10_EnumBasicsDemo.java
+│   ├── 11_EnumConstructorMethodDemo.java
+│   ├── 12_AnnotationBuiltInDemo.java
+│   ├── 13_AnnotationCustomDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
@@ -55,12 +70,14 @@ Core-Java/
 - `Day-01`: Topic-wise Java files for basics, methods, objects, overloading.
 - `Day-02`: Encapsulation, student array & enhanced-for, `StringBuffer`, `static` keyword + notes.
 - `Day-03`: 10 focused examples covering inheritance, keywords, overriding, imports, and access modifiers.
+- `Day-04`: Type casting, abstraction, inner classes, three interface patterns, enums, annotations + detailed notes.
 
 ## Daily Progress
 
 - Day 01: Basics, methods, object creation, method overloading.
 - Day 02: Encapsulation, arrays of objects, `StringBuffer` capacity, `static` keyword (fields, methods, block).
 - Day 03: Inheritance, `this`/`super`/`final`, method overriding, package imports, default/protected access.
+- Day 04: Casting, abstract classes, inner vs static nested classes, interfaces (contract, default/static, multiple), enums, built-in and custom annotations.
 
 ## Tech Stack
 
