@@ -36,3 +36,10 @@
 - Interfaces: pure contract, default/static methods (Java 8+), multiple interfaces
 - Enum constants, `values()`, enums with fields and constructors
 - Annotations: `@Override`, `@Deprecated`, `@SuppressWarnings`, custom `@interface` + reflection
+
+## Day 05 Coverage
+
+- Lambda expressions and functional interfaces
+- Runtime polymorphism (overriding + superclass reference)
+- Wrapper classes, autoboxing/unboxing, `parseInt` / `valueOf`
+- Exceptions: `try`/`catch`/`finally`, checked vs unchecked, compile-time vs logical errors (notes)

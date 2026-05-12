@@ -11,7 +11,7 @@ This repository tracks my day-by-day Java practice as I prepare for a backend de
 ## Current Focus
 
 - Core Java fundamentals
-- Type casting, abstraction, inner classes, interfaces, enums, annotations
+- Lambdas, polymorphism, wrappers, exception handling (`try`/`catch`)
 - Daily consistency through GitHub streak commits
 
 ## Career Goal
@@ -62,6 +62,12 @@ Core-Java/
 │   ├── 12_AnnotationBuiltInDemo.java
 │   ├── 13_AnnotationCustomDemo.java
 │   └── notes.md
+├── Day-05/
+│   ├── 01_LambdaExpressionsDemo.java
+│   ├── 02_PolymorphismDemo.java
+│   ├── 03_WrapperClassDemo.java
+│   ├── 04_ExceptionsDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
@@ -71,6 +77,7 @@ Core-Java/
 - `Day-02`: Encapsulation, student array & enhanced-for, `StringBuffer`, `static` keyword + notes.
 - `Day-03`: 10 focused examples covering inheritance, keywords, overriding, imports, and access modifiers.
 - `Day-04`: Type casting, abstraction, inner classes, three interface patterns, enums, annotations + detailed notes.
+- `Day-05`: Lambdas, polymorphism, wrapper classes, exceptions (`try`/`catch`/checked vs runtime) + notes.
 
 ## Daily Progress
 
@@ -78,6 +85,7 @@ Core-Java/
 - Day 02: Encapsulation, arrays of objects, `StringBuffer` capacity, `static` keyword (fields, methods, block).
 - Day 03: Inheritance, `this`/`super`/`final`, method overriding, package imports, default/protected access.
 - Day 04: Casting, abstract classes, inner vs static nested classes, interfaces (contract, default/static, multiple), enums, built-in and custom annotations.
+- Day 05: Lambda expressions, polymorphism, wrapper types, exception handling and error categories.
 
 ## Tech Stack
 
