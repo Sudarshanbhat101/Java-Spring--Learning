@@ -11,7 +11,7 @@ This repository tracks my day-by-day Java practice as I prepare for a backend de
 ## Current Focus
 
 - Core Java fundamentals
-- Lambdas, polymorphism, wrappers, exception handling (`try`/`catch`)
+- I/O, concurrency, schedulers, collections framework
 - Daily consistency through GitHub streak commits
 
 ## Career Goal
@@ -68,6 +68,15 @@ Core-Java/
 │   ├── 03_WrapperClassDemo.java
 │   ├── 04_ExceptionsDemo.java
 │   └── notes.md
+├── Day-06/
+│   ├── 01_InputDemo.java
+│   ├── 02_TryCatchFinallyDemo.java
+│   ├── 03_ThreadBasicsDemo.java
+│   ├── 04_ScheduledExecutorDemo.java
+│   ├── 05_ThreadSleepWaitNotifyDemo.java
+│   ├── 06_ThreadPriorityJoinDemo.java
+│   ├── 07_CollectionsApiDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
@@ -78,6 +87,7 @@ Core-Java/
 - `Day-03`: 10 focused examples covering inheritance, keywords, overriding, imports, and access modifiers.
 - `Day-04`: Type casting, abstraction, inner classes, three interface patterns, enums, annotations + detailed notes.
 - `Day-05`: Lambdas, polymorphism, wrapper classes, exceptions (`try`/`catch`/checked vs runtime) + notes.
+- `Day-06`: Input, try/catch/finally, threads, scheduled executor, sleep/wait/notify, priority/join, collections API.
 
 ## Daily Progress
 
@@ -86,6 +96,7 @@ Core-Java/
 - Day 03: Inheritance, `this`/`super`/`final`, method overriding, package imports, default/protected access.
 - Day 04: Casting, abstract classes, inner vs static nested classes, interfaces (contract, default/static, multiple), enums, built-in and custom annotations.
 - Day 05: Lambda expressions, polymorphism, wrapper types, exception handling and error categories.
+- Day 06: Scanner/BufferedReader input, try/catch/finally, threads, `ScheduledExecutorService`, sleep vs wait/notify, priority and join, `Collection`/`List`/`Set`/`Map`.
 
 ## Tech Stack
 

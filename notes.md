@@ -43,3 +43,13 @@
 - Runtime polymorphism (overriding + superclass reference)
 - Wrapper classes, autoboxing/unboxing, `parseInt` / `valueOf`
 - Exceptions: `try`/`catch`/`finally`, checked vs unchecked, compile-time vs logical errors (notes)
+
+## Day 06 Coverage
+
+- Console input (`Scanner`, `BufferedReader`)
+- `try` / `catch` / `finally` and try-with-resources
+- Threads: `Thread`, `Runnable`, `start`, multithreading basics
+- `ScheduledExecutorService` for scheduled tasks
+- `Thread.sleep` vs `Object.wait` / `notify` (synchronization)
+- Thread priority and `join`
+- Collections API: `Collection`, `List`, `Set`, `Map`, common implementations
