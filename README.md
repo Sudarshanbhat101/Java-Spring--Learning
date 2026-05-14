@@ -11,7 +11,7 @@ This repository tracks my day-by-day Java practice as I prepare for a backend de
 ## Current Focus
 
 - Core Java fundamentals
-- I/O, concurrency, schedulers, collections framework
+- Collections (`List`, `Set`, `Map`), ordering (`Comparable`/`Comparator`), Stream API
 - Daily consistency through GitHub streak commits
 
 ## Career Goal
@@ -77,6 +77,13 @@ Core-Java/
 │   ├── 06_ThreadPriorityJoinDemo.java
 │   ├── 07_CollectionsApiDemo.java
 │   └── notes.md
+├── Day-07/
+│   ├── 01_ArrayListDemo.java
+│   ├── 02_SetsDemo.java
+│   ├── 03_MapsDemo.java
+│   ├── 04_ComparatorComparableDemo.java
+│   ├── 05_StreamApiDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
@@ -88,6 +95,7 @@ Core-Java/
 - `Day-04`: Type casting, abstraction, inner classes, three interface patterns, enums, annotations + detailed notes.
 - `Day-05`: Lambdas, polymorphism, wrapper classes, exceptions (`try`/`catch`/checked vs runtime) + notes.
 - `Day-06`: Input, try/catch/finally, threads, scheduled executor, sleep/wait/notify, priority/join, collections API.
+- `Day-07`: `ArrayList`, `Set` variants, `Map` variants, `Comparable`/`Comparator`, Stream API pipelines.
 
 ## Daily Progress
 
@@ -97,6 +105,7 @@ Core-Java/
 - Day 04: Casting, abstract classes, inner vs static nested classes, interfaces (contract, default/static, multiple), enums, built-in and custom annotations.
 - Day 05: Lambda expressions, polymorphism, wrapper types, exception handling and error categories.
 - Day 06: Scanner/BufferedReader input, try/catch/finally, threads, `ScheduledExecutorService`, sleep vs wait/notify, priority and join, `Collection`/`List`/`Set`/`Map`.
+- Day 07: `ArrayList`, `HashSet`/`LinkedHashSet`/`TreeSet`, `HashMap`/`LinkedHashMap`/`TreeMap`, `Comparable` and `Comparator`, Stream API (filter, map, sorted, collect, reduce, match, find, IntStream).
 
 ## Tech Stack
 

@@ -53,3 +53,11 @@
 - `Thread.sleep` vs `Object.wait` / `notify` (synchronization)
 - Thread priority and `join`
 - Collections API: `Collection`, `List`, `Set`, `Map`, common implementations
+
+## Day 07 Coverage
+
+- `ArrayList` operations and iteration
+- `Set`: `HashSet`, `LinkedHashSet`, `TreeSet`
+- `Map`: `HashMap`, `LinkedHashMap`, `TreeMap`
+- `Comparable` natural order vs `Comparator` custom order
+- Stream API: intermediate ops (`filter`, `map`, `sorted`, `distinct`, `limit`, `skip`) and terminal ops (`forEach`, `collect`, `reduce`, `count`, `anyMatch`/`allMatch`, `findFirst`, `min`/`max`, `IntStream`, `Collectors.joining`)
