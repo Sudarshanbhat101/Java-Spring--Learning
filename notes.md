@@ -61,3 +61,8 @@
 - `Map`: `HashMap`, `LinkedHashMap`, `TreeMap`
 - `Comparable` natural order vs `Comparator` custom order
 - Stream API: intermediate ops (`filter`, `map`, `sorted`, `distinct`, `limit`, `skip`) and terminal ops (`forEach`, `collect`, `reduce`, `count`, `anyMatch`/`allMatch`, `findFirst`, `min`/`max`, `IntStream`, `Collectors.joining`)
+
+## Day 08 Coverage
+
+- Generics: type parameters, generic methods, bounded types (`extends Number`)
+- `StringBuilder`: `append`, `insert`, `reverse`, `toString` vs string concatenation

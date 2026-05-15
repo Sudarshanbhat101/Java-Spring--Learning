@@ -84,6 +84,10 @@ Core-Java/
 │   ├── 04_ComparatorComparableDemo.java
 │   ├── 05_StreamApiDemo.java
 │   └── notes.md
+├── Day-08/
+│   ├── 01_GenericsDemo.java
+│   ├── 02_StringBuilderDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
@@ -96,6 +100,7 @@ Core-Java/
 - `Day-05`: Lambdas, polymorphism, wrapper classes, exceptions (`try`/`catch`/checked vs runtime) + notes.
 - `Day-06`: Input, try/catch/finally, threads, scheduled executor, sleep/wait/notify, priority/join, collections API.
 - `Day-07`: `ArrayList`, `Set` variants, `Map` variants, `Comparable`/`Comparator`, Stream API pipelines.
+- `Day-08`: Generics and `StringBuilder` (streak / bridge topics before Maven).
 
 ## Daily Progress
 
@@ -106,6 +111,7 @@ Core-Java/
 - Day 05: Lambda expressions, polymorphism, wrapper types, exception handling and error categories.
 - Day 06: Scanner/BufferedReader input, try/catch/finally, threads, `ScheduledExecutorService`, sleep vs wait/notify, priority and join, `Collection`/`List`/`Set`/`Map`.
 - Day 07: `ArrayList`, `HashSet`/`LinkedHashSet`/`TreeSet`, `HashMap`/`LinkedHashMap`/`TreeMap`, `Comparable` and `Comparator`, Stream API (filter, map, sorted, collect, reduce, match, find, IntStream).
+- Day 08: Generics (`List<T>`, bounded types), `StringBuilder` for efficient string building.
 
 ## Tech Stack
 
