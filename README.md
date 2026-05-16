@@ -88,6 +88,11 @@ Core-Java/
 │   ├── 01_GenericsDemo.java
 │   ├── 02_StringBuilderDemo.java
 │   └── notes.md
+├── Day-09/
+│   ├── 01_ReferenceAndHeapDemo.java
+│   ├── 02_PolymorphismCompileRuntimeDemo.java
+│   ├── 03_StringJvmMemoryDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
@@ -101,6 +106,7 @@ Core-Java/
 - `Day-06`: Input, try/catch/finally, threads, scheduled executor, sleep/wait/notify, priority/join, collections API.
 - `Day-07`: `ArrayList`, `Set` variants, `Map` variants, `Comparable`/`Comparator`, Stream API pipelines.
 - `Day-08`: Generics and `StringBuilder` (streak / bridge topics before Maven).
+- `Day-09`: OOP memory model — references vs objects, compile/runtime polymorphism, String in JVM + in-depth notes.
 
 ## Daily Progress
 
@@ -112,6 +118,7 @@ Core-Java/
 - Day 06: Scanner/BufferedReader input, try/catch/finally, threads, `ScheduledExecutorService`, sleep vs wait/notify, priority and join, `Collection`/`List`/`Set`/`Map`.
 - Day 07: `ArrayList`, `HashSet`/`LinkedHashSet`/`TreeSet`, `HashMap`/`LinkedHashMap`/`TreeMap`, `Comparable` and `Comparator`, Stream API (filter, map, sorted, collect, reduce, match, find, IntStream).
 - Day 08: Generics (`List<T>`, bounded types), `StringBuilder` for efficient string building.
+- Day 09: JVM stack/heap, reference vs object type, compile-time vs runtime polymorphism, String pool and immutability.
 
 ## Tech Stack
 

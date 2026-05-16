@@ -66,3 +66,10 @@
 
 - Generics: type parameters, generic methods, bounded types (`extends Number`)
 - `StringBuilder`: `append`, `insert`, `reverse`, `toString` vs string concatenation
+
+## Day 09 Coverage
+
+- JVM: stack (references, frames) vs heap (objects)
+- Reference type vs runtime object type; dynamic method dispatch
+- Compile-time (overload, type check) vs runtime (override) polymorphism
+- String immutability, pool vs `new String`, `==` vs `equals`
