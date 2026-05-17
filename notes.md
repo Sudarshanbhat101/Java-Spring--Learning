@@ -73,3 +73,11 @@
 - Reference type vs runtime object type; dynamic method dispatch
 - Compile-time (overload, type check) vs runtime (override) polymorphism
 - String immutability, pool vs `new String`, `==` vs `equals`
+
+## Day 10 Coverage
+
+- Arrays: heap layout, indexing, aliasing, fixed size
+- ArrayList: backing array, growth, references to elements
+- Wrapper memory: autobox/unbox, `Integer` cache, `==` vs `equals`
+- `final`: variables, methods, classes
+- `super`: constructor chaining, parent method/field access

@@ -93,6 +93,13 @@ Core-Java/
 │   ├── 02_PolymorphismCompileRuntimeDemo.java
 │   ├── 03_StringJvmMemoryDemo.java
 │   └── notes.md
+├── Day-10/
+│   ├── 01_ArraysMemoryDemo.java
+│   ├── 02_ArrayListMemoryWorkflowDemo.java
+│   ├── 03_WrapperClassesMemoryDemo.java
+│   ├── 04_FinalKeywordDemo.java
+│   ├── 05_SuperKeywordDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
@@ -107,6 +114,7 @@ Core-Java/
 - `Day-07`: `ArrayList`, `Set` variants, `Map` variants, `Comparable`/`Comparator`, Stream API pipelines.
 - `Day-08`: Generics and `StringBuilder` (streak / bridge topics before Maven).
 - `Day-09`: OOP memory model — references vs objects, compile/runtime polymorphism, String in JVM + in-depth notes.
+- `Day-10`: Arrays & ArrayList memory workflow, wrapper memory, `final`, `super` — deep core Java before frameworks.
 
 ## Daily Progress
 
@@ -119,6 +127,7 @@ Core-Java/
 - Day 07: `ArrayList`, `HashSet`/`LinkedHashSet`/`TreeSet`, `HashMap`/`LinkedHashMap`/`TreeMap`, `Comparable` and `Comparator`, Stream API (filter, map, sorted, collect, reduce, match, find, IntStream).
 - Day 08: Generics (`List<T>`, bounded types), `StringBuilder` for efficient string building.
 - Day 09: JVM stack/heap, reference vs object type, compile-time vs runtime polymorphism, String pool and immutability.
+- Day 10: Arrays vs ArrayList on heap, wrapper autobox/cache, `final` rules, `super` in inheritance.
 
 ## Tech Stack
 
