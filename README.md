@@ -10,8 +10,8 @@ This repository tracks my day-by-day Java practice as I prepare for a backend de
 
 ## Current Focus
 
-- Core Java fundamentals
-- Collections (`List`, `Set`, `Map`), ordering (`Comparable`/`Comparator`), Stream API
+- Core Java fundamentals (deep JVM / OOP before frameworks)
+- Arrays, ArrayList, wrappers, `final`, `super`, memory workflows
 - Daily consistency through GitHub streak commits
 
 ## Career Goal
