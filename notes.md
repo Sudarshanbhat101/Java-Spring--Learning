@@ -81,3 +81,11 @@
 - Wrapper memory: autobox/unbox, `Integer` cache, `==` vs `equals`
 - `final`: variables, methods, classes
 - `super`: constructor chaining, parent method/field access
+
+## Day 11 Coverage
+
+- Wrapper types for all primitives; heap vs primitive on stack
+- Boxing, unboxing, autoboxing, auto-unboxing
+- `Integer.parseInt` vs `Integer.valueOf` (and other wrappers)
+- Integer cache (-128..127), `==` vs `equals`
+- NullPointerException when unboxing null wrapper

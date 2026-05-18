@@ -100,6 +100,9 @@ Core-Java/
 │   ├── 04_FinalKeywordDemo.java
 │   ├── 05_SuperKeywordDemo.java
 │   └── notes.md
+├── Day-11/
+│   ├── 01_WrapperClassesInDepthDemo.java
+│   └── notes.md
 ├── README.md
 ├── notes.md
 └── .gitignore
@@ -115,6 +118,7 @@ Core-Java/
 - `Day-08`: Generics and `StringBuilder` (streak / bridge topics before Maven).
 - `Day-09`: OOP memory model — references vs objects, compile/runtime polymorphism, String in JVM + in-depth notes.
 - `Day-10`: Arrays & ArrayList memory workflow, wrapper memory, `final`, `super` — deep core Java before frameworks.
+- `Day-11`: Wrapper classes in depth — boxing, autoboxing, `parseInt`, `valueOf`, NPE on unboxing.
 
 ## Daily Progress
 
@@ -128,6 +132,7 @@ Core-Java/
 - Day 08: Generics (`List<T>`, bounded types), `StringBuilder` for efficient string building.
 - Day 09: JVM stack/heap, reference vs object type, compile-time vs runtime polymorphism, String pool and immutability.
 - Day 10: Arrays vs ArrayList on heap, wrapper autobox/cache, `final` rules, `super` in inheritance.
+- Day 11: Wrapper classes — boxing/unboxing/autoboxing, `parseInt` vs `valueOf`, Integer cache, NPE.
 
 ## Tech Stack
 
